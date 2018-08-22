@@ -16,7 +16,7 @@ namespace Projetomódulo02Container
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSplitcontainer());
+            Application.Run(new frmTabControl());
         }
     }
 }
